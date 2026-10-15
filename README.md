@@ -1,16 +1,18 @@
-## Hi there 👋
+# Quantum software engineer building fault-tolerant algorithms & scientific tools
 
-<!--
-**YingrongChen/YingrongChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=cplusplus&logoColor=white)
+![Q#](https://img.shields.io/badge/-Q%23-black?logo=dotnet&logoColor=white)
+![Cirq](https://img.shields.io/badge/-Cirq-black?logo=google&logoColor=white)
 
-Here are some ideas to get you started:
+I work on fault-tolerant quantum algorithms, resource estimation, and quantum chemistry software at Microsoft.
+I really like physics, biology, and computer science. I only fully understand an idea once I have implemented it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- Fault-tolerant implementations and resource studies for quantum algorithms in [QDK/Chemistry](https://github.com/microsoft/qdk-chemistry)
+- Develop new quantum algorithms like [sparse state preparation](https://arxiv.org/abs/2608.20593)
+
+- 🎓 M.S. Physics, University of Washington · B.S. Chemistry & Computer Science, Emory University
+- 🌐 Projects & background: [yingrongchen.github.io](https://yingrongchen.github.io/)
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/yingrong-chen/)
