@@ -6,8 +6,6 @@
 
 I work on fault-tolerant quantum algorithms, resource estimation, and quantum chemistry software at Microsoft.
 
-I really like physics, biology, and computer science. I only fully understand an idea once I have implemented it.
-
 ## Currently working on
 
 - Fault-tolerant implementations and resource studies for quantum algorithms in [QDK/Chemistry](https://github.com/microsoft/qdk-chemistry)
