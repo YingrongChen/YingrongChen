@@ -4,8 +4,6 @@
 ![Q#](https://img.shields.io/badge/-Q%23-black?logo=dotnet&logoColor=white)
 ![Cirq](https://img.shields.io/badge/-Cirq-black?logo=google&logoColor=white)
 
-I work on fault-tolerant quantum algorithms, resource estimation, and quantum chemistry software at Microsoft.
-
 ## Currently working on
 
 - Fault-tolerant implementations and resource studies for quantum algorithms in [QDK/Chemistry](https://github.com/microsoft/qdk-chemistry)
